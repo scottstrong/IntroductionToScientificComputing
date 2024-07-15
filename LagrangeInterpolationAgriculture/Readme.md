@@ -1,0 +1,1 @@
+This folder contains matlab and python ports of a problem file associated with the application of Lagrange interpolation to estimate farming yields, which replicates the work of the recent paper, "Lagrange interpolation polynomial and an application in agriculture," by Senol Celik, published in 2018.
